@@ -11,7 +11,13 @@
     "url": "git+https://github.com/peckas13/create-mean-app.git"
   },
   "keywords": [
-    "drits"
+    "mean",
+    "express",
+    "node",
+    "angular",
+    "generate",
+    "create",
+    "create-mean-app"
   ],
   "author": "AlexHM <alex13pks@gmail.com>",
   "license": "MIT",
