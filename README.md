@@ -2,6 +2,11 @@
 
 This package will create a simple MEAN stack app
 
+<span style="color:red">IMPORTANT: </span> You need to have installed:
+
+- [@angular/cli](https://www.npmjs.com/package/@angular/cli)
+- [Git](https://git-scm.com/)
+
 ## Run the following comand:
 
 `npx create-mean-app`
