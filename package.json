@@ -1,14 +1,14 @@
 {
-  "name": "drits-package",
-  "version": "1.0.0",
-  "description": "Drits package",
+  "name": "create-mean-app",
+  "version": "0.1.0",
+  "description": "This package will create a mean application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peckas13/drits-package.git"
+    "url": "git+https://github.com/peckas13/create-mean-app.git"
   },
   "keywords": [
     "drits"
@@ -16,10 +16,10 @@
   "author": "AlexHM <alex13pks@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/peckas13/drits-package/issues"
+    "url": "https://github.com/peckas13/create-mean-app/issues"
   },
-  "homepage": "https://github.com/peckas13/drits-package#readme",
+  "homepage": "https://github.com/peckas13/create-mean-app#readme",
   "bin": {
-    "drits": "./bin/global.js"
+    "create-mean-app": "./bin/global.js"
   }
 }
