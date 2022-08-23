@@ -1,0 +1,25 @@
+{
+  "name": "drits-package",
+  "version": "1.0.0",
+  "description": "Drits package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peckas13/drits-package.git"
+  },
+  "keywords": [
+    "drits"
+  ],
+  "author": "AlexHM <alex13pks@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peckas13/drits-package/issues"
+  },
+  "homepage": "https://github.com/peckas13/drits-package#readme",
+  "bin": {
+    "drits": "./bin/global.js"
+  }
+}
